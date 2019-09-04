@@ -18,7 +18,7 @@
   ],
   "author": "Gustavo Machado",
   "license": "BSD",
-  "dependencies":{
-    "mailer":"*"
+  "dependencies": {
+    "nodemailer": "^6.3.0"
   }
 }
